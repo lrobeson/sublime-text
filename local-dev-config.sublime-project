@@ -1,0 +1,38 @@
+{
+	"folders":
+	[
+		{
+			"path": "/usr/local/etc/php"
+		},
+		{
+			"path": "/private/etc/apache2"
+		},
+		{
+			"path": "/private/etc"
+		},
+		{
+			"path": "/private/var/log"
+		},
+		{
+			"path": "/usr/local/Cellar"
+		},
+		{
+			"path": "/Users/ldavis-robeson/Google Drive/Notes/Front End Ops"
+		},
+		{
+			"path": "/Applications/MAMP"
+		},
+		{
+			"path": "/Users/ldavis-robeson/Google Drive/Local Dev"
+		},
+		{
+			"path": "/Users/ldavis-robeson/Google Drive/Front End Ops"
+		},
+		{
+			"path": "/Users/ldavis-robeson/Sites/lauras-brain"
+		},
+		{
+			"path": "/Users/ldavis-robeson/Google Drive/Local Dev/vagrant-shared"
+		}
+	]
+}

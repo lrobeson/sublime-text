@@ -1,0 +1,2231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Dev",
+				"Dev"
+			],
+			[
+				"au",
+				"automatically"
+			],
+			[
+				"pal",
+				"palette-CCC"
+			],
+			[
+				"ww",
+				"wow-b	word-wrap: break-word;"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"brdc",
+				"border-collapse"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"dev",
+				"development"
+			],
+			[
+				"tbl",
+				"tbl-f	table-layout: fixed;"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"quickta",
+				"quicktabs_main"
+			],
+			[
+				"bn",
+				"bd-n	border: none;"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"assessment",
+				"assessment_messages"
+			],
+			[
+				"di",
+				"d-i	display: inline;"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"tt",
+				"tt-n	text-transform: none;"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"tabl",
+				"table-layout"
+			],
+			[
+				"pale",
+				"palette-nearblack"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"patter",
+				"patternlab"
+			],
+			[
+				"com",
+				"compassMultiple"
+			],
+			[
+				"compass",
+				"compassCompile"
+			],
+			[
+				"pattern",
+				"patternlabWatch"
+			],
+			[
+				"patt",
+				"patternlabRegenerate"
+			],
+			[
+				"con",
+				"concurrent"
+			],
+			[
+				"p",
+				"patternlab"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"select",
+				"select_arrow"
+			],
+			[
+				"paper",
+				"paper_label"
+			],
+			[
+				"web_",
+				"web_label"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"dev_",
+				"dev_max"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"base",
+				"base-font-family"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"serif",
+				"serif-font-family"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"blue",
+				"blue-light"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"base-",
+				"base-font-size"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"coll",
+				"collapseSidebar"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"me",
+				"me"
+			],
+			[
+				"pane__",
+				"pane__title"
+			],
+			[
+				"grey",
+				"grey-light"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"e",
+				"error-color"
+			],
+			[
+				"status",
+				"status-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgou",
+				"background-color"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"repeat"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"dark",
+				"dark-orange"
+			],
+			[
+				"page-t",
+				"page-template-storybook-php"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"med",
+				"medium-gray"
+			],
+			[
+				"goth",
+				"gotham-medium"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"gotham",
+				"gotham-book"
+			],
+			[
+				"tex-",
+				"text-decoration"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fon-",
+				"font-weight"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"css",
+				"CSSLint"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ldavis-robeson/Dropbox/ifttt/todo.txt",
+			"settings":
+			{
+				"buffer_size": 7227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Google Drive/Notes/project-notes.md",
+			"settings":
+			{
+				"buffer_size": 18425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Google Drive/Notes/adhd-notes.md",
+			"settings":
+			{
+				"buffer_size": 3015,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 165 files for \"vacation\"\n\n/Users/ldavis-robeson/Google Drive/Notes/F1/F1 Time Off Policy.txt:\n   12  \n   13  \n   14: - vacation requests\n   15  \n   16  \n   ..\n   18  - go to Corey (cc: Nam-ho)\n   19  \n   20: - after approval from your manager(s), in addition to adding to the vacation calendar, please be sure to notify projectdelivery@ so it can be added to Daptiv\n   21  \n   22  \n\n2 matches in 1 file\n\n\nSearching 165 files for \"time off\"\n\n/Users/ldavis-robeson/Google Drive/Notes/f1.todo:\n    3  \n    4  Archive:\n    5:   ✔ time off request Sept 2-4 @done (08-21-15 17:02) @project(F1)\n    6    ✔ cancel Koding acct @done (08-18-15 13:54) @project(Later)\n    7    ✔ cancel CodeAnywhere acct @done (08-18-15 13:54) @project(Later)\n    .\n   30    ✔ Define content types @done (07-15-15 15:34) @project(Kresge / Development)\n   31    ✔ Set up Pattern Lab (including Grunt and other front end tools required) @done (07-15-15 13:49) @project(Kresge / Development)\n   32:  ✔ time off request Aug 5-7 @done (07-09-15 14:14)\n   33   ✔ Gesso @done (07-08-15 17:03)\n   34   ✔ finish Sublime Text blog post @done (07-02-15 12:52)\n\n/Users/ldavis-robeson/Google Drive/Notes/F1/F1 Time Off Policy.txt:\n    1: F1 Time Off Policy\n    2  \n    3  \n\n3 matches across 2 files\n\n\nSearching 165 files for \"paychex\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 1314,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Google Drive/Notes/F1/F1 Time Off Policy.txt",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Google Drive/Notes/Vagrant.md",
+			"settings":
+			{
+				"buffer_size": 2058,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Google Drive/Notes/Tools.md",
+			"settings":
+			{
+				"buffer_size": 583,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Google Drive/Notes/styleguide-driven-development-video.md",
+			"settings":
+			{
+				"buffer_size": 908,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 145.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ldavis-robeson/Google Drive/Notes",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1"
+	],
+	"file_history":
+	[
+		"/Users/ldavis-robeson/Google Drive/Notes/ARCHIVE/Front End Project Template.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/remote-worker.md",
+		"/Users/ldavis-robeson/Google Drive/Local Dev/Mackup/.bash_profile",
+		"/Users/ldavis-robeson/Google Drive/Local Dev/vagrant-shared/.bash_profile",
+		"/Users/ldavis-robeson/Google Drive/Notes/infp-podcast.md",
+		"/Users/ldavis-robeson/SpiderOak Hive/amen-clinic.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Blogs/Drupal modules for front end development.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Blogs/Blog Ideas.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/Keyboard Shortcuts.md",
+		"/Users/ldavis-robeson/.bash_profile",
+		"/Users/ldavis-robeson/Google Drive/Local Dev/dotfiles/.bash_profile",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1/Daptiv.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/code-review-tools.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/side-projects.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Paragraphs-module.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/code-library.txt",
+		"/Users/ldavis-robeson/Sites/personal-goals/ideas-and-misc/blog-ideas.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/project-notes.md",
+		"/Users/ldavis-robeson/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/ldavis-robeson/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/ldavis-robeson/Google Drive/Notes/Vagrant.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/f1.todo",
+		"/Users/ldavis-robeson/Google Drive/Notes/new-project-start.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front-End-Dev.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/ARCHIVE/Browser Testing.txt",
+		"/Users/ldavis-robeson/Sites/kresge/.git/hooks/post-commit",
+		"/Users/ldavis-robeson/Dropbox/ifttt/f1.todo",
+		"/Users/ldavis-robeson/Sites/ARCHIVE/edge/public/sites/all/themes/edge_2013/Gruntfile.js",
+		"/Users/ldavis-robeson/Sites/ARCHIVE/edge/Gruntfile.js",
+		"/Users/ldavis-robeson/Google Drive/Notes/pnwds-2015.md",
+		"/Users/ldavis-robeson/Google Drive/Projects/project-notes.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1/Resourcing.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/ARCHIVE/CSS-Regression-Testing.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/ARCHIVE/Git.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/ARCHIVE/Drush.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1/2015-health-insurance.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/ARCHIVE/PhantomCSS - regression testing.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1/F1 Time Off Policy.txt",
+		"/Users/ldavis-robeson/Sites/personal-goals/accomplishments/2015-07-week2.md",
+		"/Users/ldavis-robeson/Sites/personal-goals/README.md",
+		"/Users/ldavis-robeson/Sites/personal-goals/happy-moments/happy-moments.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Pattern-Lab.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front End Project Template.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Time Estimation.txt",
+		"/Users/ldavis-robeson/SpiderOak Hive/todo.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/project-management.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Tools.md",
+		"/Users/ldavis-robeson/Sites/personal-goals/ideas-and-misc/app-ideas.md",
+		"/Users/ldavis-robeson/Sites/personal-goals/resources/slides.md",
+		"/Users/ldavis-robeson/Sites/personal-goals/resources/compilations.md",
+		"/Users/ldavis-robeson/Sites/personal-goals/resources/blog-posts.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Success-Factors.md",
+		"/Users/ldavis-robeson/Dropbox/ifttt/F1-todo.txt",
+		"/Users/ldavis-robeson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ldavis-robeson/Dropbox/ifttt/todo.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1/2013 Performance Review.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1/2014 Performance Review.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/FED Workload Brainstorming.md",
+		"/Users/ldavis-robeson/SpiderOak Hive/braindump.todo",
+		"/Users/ldavis-robeson/Google Drive/Notes/*BREAK OUT TO SEPARATE NOTES: Breakpoint, Compass & Sass.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1UX Theme - Component Enhancement Suggestions.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/Theming (general).txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/Theming Delays.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/Suggestions (need to organize)[Front-End-Ops].md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front End Backlog Template.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/cascadia-css.md",
+		"/Users/ldavis-robeson/Sites/front-end-toolbox/gesso/patternlab/README.md",
+		"/Users/ldavis-robeson/Sites/front-end-toolbox/gesso/README.md",
+		"/Users/ldavis-robeson/Google Drive/Projects/playground/playground.sublime-workspace",
+		"/Users/ldavis-robeson/Google Drive/Projects/playground/playground.sublime-project",
+		"/Users/ldavis-robeson/Google Drive/Projects/playground/patternlab.sublime-project",
+		"/Users/ldavis-robeson/Google Drive/Projects/playground/patternlab.sublime-workspace",
+		"/Users/ldavis-robeson/Sites/patternlab/README.md",
+		"/Users/ldavis-robeson/Desktop/Pattern Lab Documentation_files/requirements.html",
+		"/Users/ldavis-robeson/SpiderOak Hive/house-holy-shit.todo",
+		"/Users/ldavis-robeson/Library/Application Support/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+		"/Users/ldavis-robeson/Library/Application Support/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/Users/ldavis-robeson/SpiderOak Hive/F1-Todo.todo",
+		"/Users/ldavis-robeson/SpiderOak Hive/Todo.todo",
+		"/Users/ldavis-robeson/SpiderOak Hive/Today.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/MySQL.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/Theming.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/PreprosTesting.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Notes.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/Browser Testing.txt",
+		"/Volumes/USB/Todo.todo",
+		"/Volumes/USB/braindump.todo",
+		"/Users/ldavis-robeson/Google Drive/Notes/README.md",
+		"/Users/ldavis-robeson/Google Drive/Projects/Collaboratory/collaboratory-notes.md",
+		"/Users/ldavis-robeson/SpiderOak Hive/irs/irs.md",
+		"/Users/ldavis-robeson/SpiderOak Hive/ADHD.md",
+		"/Users/ldavis-robeson/SpiderOak Hive/irs.md",
+		"/Users/ldavis-robeson/SpiderOak Hive/family-manual.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/ToDo.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Tech/Security Questions.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Meetups/Code for Seattle.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Pattern Lab Intro for Developers.gdoc",
+		"/Users/ldavis-robeson/Google Drive/Notes/F1/Dev Server - Varnish.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/Vagrant.txt",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/edge-reports.scss",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/default/local.settings.php",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/default/settings.php",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components/_pane-edge-report-indicator-table.scss",
+		"/Users/ldavis-robeson/Sites/edge/Vagrantfile.local",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/templates/print.tpl.php",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print_pdf/print_pdf.api.php",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print_pdf/print_pdf.pages.inc",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print.module",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print.pages.inc",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print.tpl.php",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print.api.php",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/includes/print.inc",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/css/print.css",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print_pdf/lib_handlers/print_pdf_wkhtmltopdf/print_pdf_wkhtmltopdf.module",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print_pdf/lib_handlers/print_pdf_wkhtmltopdf/print_pdf_wkhtmltopdf.pages.inc",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print_ui/css/print_ui.theme.css",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/edge_report/plugins/content_types/edge_report_benchmark_header.inc",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/edge_report/plugins/content_types/edge_report_indicator_table.inc",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/templates/panels-pane.tpl.php",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components/_results-and-reports.scss",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/_base.scss",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/templates/maintenance-page.tpl.php",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print_pdf/print_pdf.drush.inc",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components/_state-workflow.scss",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/styles.scss",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/print_pdf_phantomjs/print_pdf_phantomjs.admin.inc",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/print_pdf_phantomjs/print_pdf_phantomjs.module",
+		"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/print_pdf_phantomjs/print_pdf_phantomjs.pages.inc"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/Users/ldavis-robeson/Google Drive/Notes",
+			"/Users/ldavis-robeson/Sites/ARCHIVE",
+			"/Users/ldavis-robeson/Google Drive/Notes",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/contrib/print/print_pdf",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/print_pdf_phantomjs",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass",
+			"/Users/ldavis-robeson/Sites/edge/public",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/default",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/print_pdf_phantomjs",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/print_pdf_phantomjs",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/css",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features/benchmark",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features/",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features/benchmark",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components",
+			"/Users/ldavis-robeson/Google Drive/Notes/Projects--active/Edge/edge_notes.md,/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features/take_action",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features/take_action",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features/benchmark",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features/take_action",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/edge_report/plugins/content_types",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/features",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass/components",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/themes/edge_2013/sass",
+			"/Users/ldavis-robeson/Sites/edge/public/sites/all/modules/custom/edge_dashboards/tabstyles/edge_library_dashboard",
+			"/Users/ldavis-robeson/Sites/grand-challenges/patternlab/source/sass",
+			"/Users/ldavis-robeson/Sites/grand-challenges/patternlab/source/_patterns/00-atoms/05-forms",
+			"/Users/ldavis-robeson/Sites/grand-challenges/patternlab/source/_patterns",
+			"/Users/ldavis-robeson/Sites/grand-challenges/public/sites/all/themes/grand-challenges",
+			"/Users/ldavis-robeson/Sites/grand-challenges/public/sites/all/themes/grand-challenges/sass",
+			"/Users/ldavis-robeson/Sites/grand-challenges/patternlab/source/sass",
+			"/Users/ldavis-robeson/Sites/grand-challenges/puppet",
+			"/Users/ldavis-robeson/Sites/grand-challenges/patternlab/grunt",
+			"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns",
+			"/Users/ldavis-robeson/Sites/gc/patternlab/gulp",
+			"/Users/ldavis-robeson/Sites/gc/patternlab",
+			"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns",
+			"/Users/ldavis-robeson/Sites/gc/patternlab",
+			"/Users/ldavis-robeson/Sites/gc/patternlab/source/sass",
+			"/Users/ldavis-robeson/Sites/gc/node_modules/grunt-photobox",
+			"/Users/ldavis-robeson/Sites/gc/test/photobox",
+			"/Users/ldavis-robeson/Sites/gc/node_modules/grunt-photobox",
+			"/Users/ldavis-robeson/Sites/gc/app/sass",
+			"/Users/ldavisrobeson/Sites/gc",
+			"/Users/lrobeson/Sites/patternlab",
+			"/Users/lrobeson/Sites/patternlab-php",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact",
+			"/Users/lrobeson/Sites/impact/sites/all/modules/features/my_impact",
+			"/Users/lrobeson/Sites/impact/sites/all/modules/features",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/impact/sites/all/modules/features",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/impact/sites/all/modules/features",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials/components",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/seabm",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/seabm",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/seabm/sites",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes",
+			"/Users/lrobeson/Sites/seabm/sites",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/f1ux"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"paychex",
+			"time off",
+			"vacation",
+			"startup",
+			"browser",
+			"browsersync",
+			"testing",
+			"display suite",
+			"sublime",
+			"gesso",
+			"slat",
+			"apps",
+			"look",
+			"mobile",
+			"#auto-re",
+			"auto-re",
+			"managing-",
+			"advanced-auto",
+			"#adva",
+			"pattern-",
+			"pattern-data",
+			"[1]",
+			"advanced",
+			"a name",
+			"<a ",
+			"page f",
+			"page fo",
+			"Dropbox",
+			"estimate",
+			"browsersync",
+			"css",
+			"cache",
+			"css",
+			"th {",
+			"th:",
+			"th",
+			"border-left",
+			"empty",
+			"th:empty",
+			"  margin-left: 1px solid #CCC;",
+			"empty",
+			"border",
+			"empty",
+			"border",
+			"print",
+			"@media",
+			"@print",
+			"font-family",
+			"font-fam",
+			"border-col",
+			"caching",
+			"tmp",
+			"base-sansserif",
+			"font-family",
+			"colla",
+			"envir",
+			"stage_edge",
+			"settings.php",
+			"environ",
+			"https://support.libraryedge.org/support/tickets/new",
+			"Take Assessment",
+			"quicktabs",
+			"quicktabs-style-edge-library-dashboard",
+			"quicktabs-style-edge-library-dashboard ",
+			"/print/",
+			"title",
+			"print_pdf_phantomjs_options",
+			"word-wrap",
+			"edge-report-indicator",
+			"css",
+			"pdf",
+			"css",
+			"@media print",
+			"print",
+			"css",
+			"print_pdf",
+			"pdf",
+			"print",
+			"pane-locations-footer",
+			"border-coll",
+			"library-locations",
+			"no-table-header-borders",
+			".edge-report-indicator",
+			"indicator-name",
+			"registration-rate",
+			"google",
+			"chart",
+			"edge-report-indicator",
+			"modal",
+			":after",
+			"$form",
+			"container",
+			"modal",
+			"h2",
+			"edge-menu-item",
+			"panel-display",
+			"edge-onecol",
+			"panel-pane",
+			"div.quicktabs-tabpage",
+			"panel-pane",
+			"button-container",
+			"disabled",
+			"F37232",
+			"FF4500",
+			"regressed",
+			"chart",
+			".pane-benchmark",
+			"%pane-benchmark",
+			"width: 46%",
+			"benchmark",
+			"%pane-benchmark",
+			"46%",
+			"pane-benchmark",
+			"!</",
+			"mini-panel",
+			"minipanel",
+			"title",
+			"Now that you've",
+			"Summary",
+			"0 20px 15px",
+			"F37232",
+			"FF4500",
+			"F37232",
+			"f37",
+			"chart",
+			"ff4500",
+			"chart",
+			"4500"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a class=\"button\" target=\"_blank\" ",
+			"<a class=\"button\" target=\"_blank\"",
+			"$blue",
+			"#000",
+			"fonts",
+			"../fonts",
+			"url('fonts/",
+			"$grey-extra-light",
+			"default-sidebar-padding",
+			"grey-light",
+			"blue-light",
+			"blue-dark",
+			"orange-dark",
+			"grey-dark",
+			"row-4",
+			"row-3",
+			"row-2",
+			"csedweek",
+			"f1ux",
+			"csedweek",
+			"project",
+			"sitewide",
+			"file_group",
+			"one_column",
+			":0;",
+			"biomed"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ldavis-robeson/Dropbox/ifttt/todo.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "27c60201",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/ldavis-robeson/Google Drive/Notes/project-notes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14554,
+								14554
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "4f0baeba",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/ldavis-robeson/Google Drive/Notes/adhd-notes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1129,
+								1129
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "d202a0f5",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1314,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										129,
+										137
+									],
+									[
+										286,
+										294
+									],
+									[
+										536,
+										544
+									],
+									[
+										981,
+										989
+									],
+									[
+										1210,
+										1218
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1270,
+								1270
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bs_sintax": "find results.hidden-tmlanguage",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"default_dir": "/Users/ldavis-robeson/Google Drive/Notes",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "",
+							"result_line_regex": "",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1416.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/ldavis-robeson/Google Drive/Notes/F1/F1 Time Off Policy.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "0170223e",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/ldavis-robeson/Google Drive/Notes/Vagrant.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "9a5b14ff",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/ldavis-robeson/Google Drive/Notes/Tools.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "7b18c046",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/ldavis-robeson/Google Drive/Notes/styleguide-driven-development-video.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								897,
+								897
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "b74406a7",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "notes.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"daptiv",
+				"Notes/F1/Daptiv.md"
+			],
+			[
+				"newproject",
+				"Notes/new-project-start.md"
+			],
+			[
+				"testing",
+				"Notes/ARCHIVE/Browser Testing.txt"
+			],
+			[
+				"proj",
+				"Notes/project-notes.md"
+			],
+			[
+				"tool",
+				"Notes/Tools.md"
+			],
+			[
+				"timeoff",
+				"Notes/F1/F1 Time Off Policy.txt"
+			],
+			[
+				"drush",
+				"Notes/ARCHIVE/Drush.txt"
+			],
+			[
+				"patter",
+				"Notes/Pattern-Lab.md"
+			],
+			[
+				"keybo",
+				"Notes/Keyboard Shortcuts.md"
+			],
+			[
+				"2014",
+				"Notes/F1/2014 Performance Review.md"
+			],
+			[
+				"2013",
+				"Notes/F1/2013 Performance Review.txt"
+			],
+			[
+				"template",
+				"Notes/Front End Backlog Template.md"
+			],
+			[
+				"backlo",
+				"Notes/Front End Backlog Template.md"
+			],
+			[
+				"tempalte",
+				"Notes/Front End Backlog Template.md"
+			],
+			[
+				"code",
+				"Notes/code-review-tools.md"
+			],
+			[
+				"goals",
+				"Notes/F1/2015 Goals.md"
+			],
+			[
+				"pattern",
+				"Notes/Pattern-Lab.md"
+			],
+			[
+				"mys",
+				"Notes/MySQL.txt"
+			],
+			[
+				"back",
+				"Notes/Front End Backlog Template.md"
+			],
+			[
+				"dap",
+				"Notes/F1/Daptiv.md"
+			],
+			[
+				"vag",
+				"Notes/Vagrant.md"
+			],
+			[
+				"perfo",
+				"Notes/F1/2013 Performance Review.txt"
+			],
+			[
+				"key",
+				"Notes/Keyboard Shortcuts.md"
+			],
+			[
+				"varn",
+				"F1/Dev Server - Varnish.txt"
+			],
+			[
+				"vagr",
+				"edge/Vagrantfile.local"
+			],
+			[
+				"local.set",
+				"edge/public/sites/default/local.settings.php"
+			],
+			[
+				"settings",
+				"edge/public/sites/default/settings.php"
+			],
+			[
+				"edge-re",
+				"edge/public/sites/all/themes/edge_2013/sass/edge-reports.scss"
+			],
+			[
+				"sites.",
+				"edge/public/sites/example.sites.php"
+			],
+			[
+				"sett",
+				"edge/public/sites/default/settings.php"
+			],
+			[
+				"indicator_t",
+				"edge/public/sites/all/modules/custom/edge_report/plugins/content_types/edge_report_indicator_table.inc"
+			],
+			[
+				"indicator_ta",
+				"edge/public/sites/all/modules/custom/edge_report/plugins/content_types/indicator_table_single.inc"
+			],
+			[
+				"libraries/pha",
+				"edge/public/sites/all/libraries/phantomjs/printmargins.js"
+			],
+			[
+				"gruntfil",
+				"edge/public/sites/all/themes/edge_2013/Gruntfile.js"
+			],
+			[
+				"vagran",
+				"edge/Vagrantfile.local"
+			],
+			[
+				"settings.p",
+				"edge/public/sites/default/settings.php"
+			],
+			[
+				"util",
+				"edge/public/sites/all/themes/edge_2013/sass/_utils.scss"
+			],
+			[
+				"edge_2",
+				"edge/public/sites/all/themes/edge_2013/js/edge_2013.js"
+			],
+			[
+				"indicator-ta",
+				"edge/public/sites/all/themes/edge_2013/sass/components/_pane-edge-report-indicator-table.scss"
+			],
+			[
+				"state-w",
+				"edge/public/sites/all/themes/edge_2013/sass/components/_state-workflow.scss"
+			],
+			[
+				"pane-da",
+				"edge/public/sites/all/themes/edge_2013/sass/components/_pane-dashboard-0-get-started.scss"
+			],
+			[
+				"benchmark_ch",
+				"edge/public/sites/all/modules/custom/edge_report/plugins/content_types/benchmark_change.inc"
+			],
+			[
+				"vagra",
+				"edge/Vagrantfile"
+			],
+			[
+				"grun",
+				"edge/public/sites/all/themes/edge_2013/Gruntfile.js"
+			],
+			[
+				"conf",
+				"edge/public/sites/all/themes/edge_2013/config.rb"
+			],
+			[
+				"utils",
+				"edge/public/sites/all/themes/edge_2013/sass/_utils.scss"
+			],
+			[
+				"set",
+				"edge/public/sites/default/settings.php"
+			],
+			[
+				"edge.js",
+				"edge/public/sites/all/themes/edge_2013/js/edge_2013.js"
+			],
+			[
+				"settin",
+				"edge/public/sites/default/settings.php"
+			],
+			[
+				"vm.",
+				"edge/public/sites/default/vm.settings.php"
+			],
+			[
+				"vm.s",
+				"edge/public/sites/default/vm.settings.php"
+			],
+			[
+				"drush.al",
+				"edge/public/sites/all/drush/edge.aliases.drushrc.php"
+			],
+			[
+				"vm.se",
+				"edge/public/sites/default/vm.settings.php"
+			],
+			[
+				"vm.set",
+				"edge/public/sites/default/vm.settings.php"
+			],
+			[
+				"edge_201",
+				"edge/public/sites/all/themes/edge_2013/js/edge_2013.js"
+			],
+			[
+				"edge_librar",
+				"edge/public/sites/all/modules/custom/edge_dashboards/tabstyles/edge_library_dashboard/sass/edge_library_dashboard.scss"
+			],
+			[
+				"gitig",
+				"grand-challenges/patternlab/.gitignore"
+			],
+			[
+				"gitignore",
+				"grand-challenges/.gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/Projects/kresge/kresge.sublime-project"
+			],
+			[
+				"b",
+				"~/Google Drive/Local Dev/Sublime Text/Projects--active/brady.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 464.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

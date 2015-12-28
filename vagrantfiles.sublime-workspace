@@ -1,0 +1,1610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bradyce",
+				"bradycenter"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"facebook_share_",
+				"facebook_share_url"
+			],
+			[
+				"face",
+				"facebook_logo_path"
+			],
+			[
+				"facebook",
+				"facebook_logo"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"patt",
+				"patternlabRegenerate"
+			],
+			[
+				"con",
+				"concurrent"
+			],
+			[
+				"p",
+				"patternlab"
+			],
+			[
+				"dev",
+				"dev_min"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"select",
+				"select_arrow"
+			],
+			[
+				"paper",
+				"paper_label"
+			],
+			[
+				"web_",
+				"web_label"
+			],
+			[
+				"dev_",
+				"dev_max"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"base",
+				"base-font-family"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fi",
+				"font-size"
+			],
+			[
+				"serif",
+				"serif-font-family"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"blue",
+				"blue-light"
+			],
+			[
+				"base-",
+				"base-font-size"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"coll",
+				"collapseSidebar"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"me",
+				"me"
+			],
+			[
+				"pane__",
+				"pane__title"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"grey",
+				"grey-light"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"e",
+				"error-color"
+			],
+			[
+				"status",
+				"status-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgou",
+				"background-color"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"repeat"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"dark",
+				"dark-orange"
+			],
+			[
+				"page-t",
+				"page-template-storybook-php"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"med",
+				"medium-gray"
+			],
+			[
+				"goth",
+				"gotham-medium"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"gotham",
+				"gotham-book"
+			],
+			[
+				"tex-",
+				"text-decoration"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fon-",
+				"font-weight"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"css",
+				"CSSLint"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ldavis-robeson/Sites/ggkp/Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 4352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Sites/web-starter/Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 4352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Sites/impact/Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 4374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Sites/forumone/Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 4374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Sites/BradyCenter/Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 4431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ldavis-robeson/Sites/uwonline/Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 4562,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: breakpoint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/template.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/donate-form.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/css/donate-form.css",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/bsd_api/css/styles.css",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/scripts/brady.js",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/brady.info",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/bsd_api/index.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/default/settings.vm.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/scripts/jquery.responsiveiframe.js",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/bsd_api/js/jquery.responsiveiframe.js",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/default/settings.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/components/_field-donation-form.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/components/_spotlight.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/components/_donate-form.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/_base.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/_custom.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/components/_flexslider.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/components/_node-slideshow.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/templates/html.tpl.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/templates/page.tpl.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/adaptivetheme/at_core/template.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/adaptivetheme/at_core/theme-settings.php",
+		"/Users/ldavis-robeson/Desktop/nathansmith-formalize-1471ba0/assets/css/_formalize.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/global/variables/_colors.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/global.styles.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/global/variables/_typography.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/puppet/manifests/hieradata/hosts/brady.yaml",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/global.base.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/Gruntfile.js",
+		"/Users/ldavis-robeson/Sites/BradyCenter/.gitignore",
+		"/Users/ldavis-robeson/Sites/BradyCenter/brady.aliases.drushrc.php",
+		"/Users/ldavis-robeson/Google Drive/Notes/Active Projects/Brady/notes.md",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/.editorconfig",
+		"/Users/ldavis-robeson/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/modules/contrib/backup_migrate/includes/filters.inc",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/overrides/_flexslider.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/_node-slideshow.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/variables/_layout.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/variables/_colors.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/variables/_typography.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/global/helpers/_mixins.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/_base.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/partials/_custom.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/config.rb",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/brady_spotlight/brady-spotlight.tpl.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/layout/panels/_brady-spotlight.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/_flexslider.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/_node-slideshow.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/package.json",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/brady_two_50/brady_two_50.inc",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/brady_spotlight/brady_spotlight.inc",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/brady_spotlight/brady-spotlight.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/brady_two_50/two_50.admin.css",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/single_column/single_column.inc",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/_README.txt",
+		"/Users/ldavis-robeson/Google Drive/Notes/Active Projects/Brady/Internal Kickoff.md",
+		"/Users/ldavis-robeson/Sites/BradyCenter/Gemfile",
+		"/Users/ldavis-robeson/Sites/BradyCenter/Gemfile.lock",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/homepage/homepage.inc",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/brady_spotlight/brady_spotlight.png",
+		"/Users/ldavis-robeson/Sites/playground/f1ux-theme-panels-layouts/panels/layouts/complex_a/complex_a.png",
+		"/Users/ldavis-robeson/Sites/playground/f1ux-theme-panels-layouts/panels/layouts/complex_b/complex_b.png",
+		"/Users/ldavis-robeson/Sites/playground/f1ux-theme-panels-layouts/panels/layouts/complex_c/complex_c.png",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/config.rb.orig",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/scripts/slider.options.js",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/responsive.desktop.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass/responsive.custom.scss",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/screenshot.png",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/.editorconfig",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/layouts/panels/brady_two_50/brady-two-50.tpl.php",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_data/_data.json",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/02-organisms/04-spotlight-rotator/00-interior.mustache",
+		"/Users/ldavis-robeson/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/00-atoms/08-media/00-youtube.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/00-atoms/08-media/_01-video.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/00-atoms/08-media/_02-audio.mustache",
+		"/Users/ldavis-robeson/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/span-class.sublime-snippet",
+		"/Users/ldavis-robeson/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/breakpoint.sublime-snippet",
+		"/Users/ldavis-robeson/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/div-class.sublime-snippet",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/00-atoms/04-images/08-rectangle.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/01-molecules/05-navigation/05-slider-direction-control.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/01-molecules/05-navigation/06-slider-number-control.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/03-templates/00-homepage.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/01-molecules/01-layout/01-two-up.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/01-molecules/02-blocks/02-block-hero.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/00-atoms/08-media/_00-video.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/01-molecules/03-media/00-figure-with-caption.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/01-molecules/05-navigation/00-primary-nav.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/01-molecules/08-spotlight-rotator/00-interior.mustache",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/00-atoms/04-images/03-square.mustache",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front End Ops/Front End Backlog Template[redmine].md",
+		"/Users/ldavis-robeson/Dropbox/Local-Dev-Config/Sublime Text/Projects/brady.sublime-project",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front End Ops/Alfred.md",
+		"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/default/settings.dev.php",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front End Ops/CSS-Regression-Testing.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front End Ops/Grunt.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front End Ops/Pattern-Lab.md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Front End Ops/Suggestions (need to organize)[Front-End-Ops].md",
+		"/Users/ldavis-robeson/Google Drive/Notes/Active Projects/Brady/theming-backlog.md",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/.gitignore",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/01-molecules/03-navigation/01-molecules.listitems.json",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/02-organisms/00-regions/05-footer@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/04-pages/01-landing-page.json",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/LICENSE",
+		"/Users/ldavis-robeson/Sites/gc/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/link-icon-png.json",
+		"/Users/ldavis-robeson/Sites/gc/.sass-cache/087dd7da101bc33a7c57829c98636fdaf57e888d/_link.scssc",
+		"/Users/ldavis-robeson/Sites/gc/node_modules/karma/node_modules/optimist/example/line_count.js",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/01-molecules/_01-molecules.listitems.json",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/01-molecules/03-navigation/00-main-menu@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/01-molecules/03-navigation/03-pager@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/09-page-elements/00-site-name@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/09-page-elements/01-site-slogan@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/06-buttons/00-button@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/09-page-elements/02-page-title@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/01-global/00-colors@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/app/sass/partials/components/_button.scss",
+		"/Users/ldavis-robeson/Sites/gc/app/sass/partials/global/helpers/_button.scss",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/04-images/02-portrait@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/04-images/00-icon@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/02-text/06-hr@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/02-text/05-preformatted-text@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/02-text/04-time@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/02-text/03-inline-elements@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/02-text/02-blockquote@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/02-text/01-paragraph@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/02-text/00-headings@inprogress.mustache",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/sass/partials/_global.scss",
+		"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns/00-atoms/00-meta/_00-head.mustache"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/Users/ldavis-robeson/Sites/BradyCenter/public/sites",
+			"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/templates",
+			"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady",
+			"/Users/ldavis-robeson/Sites/BradyCenter",
+			"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass",
+			"/Users/ldavis-robeson/Sites/BradyCenter/public",
+			"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady",
+			"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/sass",
+			"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns",
+			"/Users/ldavis-robeson/Sites/BradyCenter/public/sites/all/themes/brady/patternlab/source/_patterns/01-molecules",
+			"/Users/ldavis-robeson/Sites/gc/patternlab",
+			"/Users/ldavis-robeson/Sites/gc/patternlab/source/_patterns",
+			"/Users/ldavis-robeson/Sites/gc/patternlab",
+			"/Users/ldavis-robeson/Sites/gc/patternlab/source/sass",
+			"/Users/ldavis-robeson/Sites/gc/node_modules/grunt-photobox",
+			"/Users/ldavis-robeson/Sites/gc/test/photobox",
+			"/Users/ldavis-robeson/Sites/gc/node_modules/grunt-photobox",
+			"/Users/ldavis-robeson/Sites/gc/app/sass",
+			"/Users/ldavisrobeson/Sites/gc",
+			"/Users/lrobeson/Sites/patternlab",
+			"/Users/lrobeson/Sites/patternlab-php",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact",
+			"/Users/lrobeson/Sites/impact/sites/all/modules/features/my_impact",
+			"/Users/lrobeson/Sites/impact/sites/all/modules/features",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/impact/sites/all/modules/features",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/impact/sites/all/modules/features",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact",
+			"/Users/lrobeson/Sites/impact/sites/all/themes/impact/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials/components",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/seabm",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/seabm",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/seabm/sites",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes",
+			"/Users/lrobeson/Sites/seabm/sites",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/sbri-v2/sass",
+			"/Users/lrobeson/Sites/seabm/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/seabm",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials/components",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials/components",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/modules/features",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/modules/contrib/views/theme",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/modules/features",
+			"/Users/lrobeson/Sites/air/docroot",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/modules/features",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass/partials",
+			"/Users/lrobeson/Sites/air/docroot/sites/all",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Desktop/f1ux-theme/sass",
+			"/Users/lrobeson/Desktop/owncloud",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux",
+			"/Users/lrobeson/Sites/air/puppet",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/makingmalariahistory",
+			"/Users/lrobeson/Desktop/f1ux-theme",
+			"/Users/lrobeson/Sites/makingmalariahistory",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Desktop/f1ux-theme",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass",
+			"/Users/lrobeson/Sites/drupal-server-v2/drupal/turnip/code_dot_org/themes/csedweek/sass",
+			"/Users/lrobeson/Sites/drupal-server-v2/drupal/turnip/",
+			"/Users/lrobeson/Sites/drupal-server-vs/drupal/turnip/",
+			"/Users/lrobeson/Sites/drupal-server-vs/drupal/turnip",
+			"/Users/lrobeson/Sites/air/docroot/sites/all/themes/f1ux/sass"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"global",
+			"site",
+			"_url",
+			"url_",
+			"get_",
+			"logo_",
+			"path",
+			"theme",
+			"local",
+			">\n",
+			"elem",
+			"elem.",
+			"postMessage",
+			"scrollTop",
+			"height",
+			"width",
+			"0",
+			"jquery",
+			"height",
+			"country",
+			"width:",
+			"width:100",
+			"width: 100",
+			"width",
+			"path",
+			"width",
+			"favicon",
+			"path",
+			"meta",
+			"html.tpl.php",
+			"theme",
+			"meta",
+			"box-si",
+			"legacy",
+			"widt",
+			"font-fam",
+			"varnish",
+			"width",
+			".cc-number",
+			"width",
+			"input[type=\"text\"]",
+			"h3",
+			"//",
+			"h3",
+			"font-fami",
+			".valid",
+			"form.donate-form .cc-number",
+			"donate-form",
+			"add-your-name",
+			"@import 'custom'",
+			"font-size",
+			"base-font-size",
+			"oswald",
+			"_custom",
+			"$impact",
+			"font-family",
+			"intro",
+			"intro_first",
+			"width",
+			".node-teaser",
+			"node.node-teaser",
+			"custom",
+			"@import \"custom\"",
+			"@import custom",
+			"@import",
+			"import",
+			"youtube",
+			"video",
+			"Thursday",
+			"control",
+			"listItem",
+			"\"",
+			"li",
+			"li>",
+			"nav",
+			"{{ name }}",
+			"Pattern Lab",
+			"title",
+			"{{ title }}",
+			"compass",
+			"$legacy",
+			"shell",
+			"concur",
+			"conc",
+			"open: true",
+			"serve",
+			"watch",
+			"serve",
+			"app",
+			"serve",
+			"load-gr",
+			"compass",
+			"server",
+			"compass:serv",
+			"compass",
+			"server",
+			"canvas",
+			"canvas.tpl",
+			"imagemag",
+			"image",
+			"imagema",
+			"photo",
+			"keep",
+			"compass",
+			"watch",
+			"karma",
+			"<a class=\"button\" target=\"_blank\"",
+			"<a class=\"button\" ",
+			"hyphens",
+			"ng-leave",
+			"font-s",
+			"font-",
+			"filter__mobile_control",
+			"oppo",
+			"init",
+			"bower",
+			"component-list",
+			"headings",
+			"h1",
+			"atoms",
+			"sg-nav-container",
+			"atoms",
+			"molecules",
+			"Atoms+",
+			"atoms",
+			"select",
+			"none",
+			"input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"spotlight",
+			"spotlight_first",
+			"<a class=\"button\" target=\"_blank\" ",
+			"<a class=\"button\" target=\"_blank\"",
+			"$blue",
+			"#000",
+			"fonts",
+			"../fonts",
+			"url('fonts/",
+			"$grey-extra-light",
+			"default-sidebar-padding",
+			"grey-light",
+			"blue-light",
+			"blue-dark",
+			"orange-dark",
+			"grey-dark",
+			"row-4",
+			"row-3",
+			"row-2",
+			"csedweek",
+			"f1ux",
+			"csedweek",
+			"project",
+			"sitewide",
+			"file_group",
+			"one_column",
+			":0;",
+			"biomed"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ldavis-robeson/Sites/ggkp/Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/ldavis-robeson/Sites/web-starter/Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/ldavis-robeson/Sites/impact/Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								578,
+								578
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/ldavis-robeson/Sites/forumone/Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/ldavis-robeson/Sites/BradyCenter/Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/ldavis-robeson/Sites/uwonline/Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								386
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 78.0
+	},
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"project": "vagrantfiles.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/Sublime Text Projects/impact.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

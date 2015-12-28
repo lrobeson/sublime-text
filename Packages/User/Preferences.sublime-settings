@@ -1,0 +1,45 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_selector": "source, text",
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"detect_indentation": true,
+	"fade_fold_buttons": false,
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"FirePHPCore",
+				".sass-cache"
+			],
+			"follow_symlinks": true,
+			"path": "/Users/lrobeson/Desktop/f1ux-theme"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"FirePHPCore",
+				".sass-cache"
+			],
+			"follow_symlinks": true,
+			"path": "/Users/lrobeson/Desktop/f1ux-theme-panels-layouts"
+		}
+	],
+	"font_size": 18,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"ASP",
+		"SublimeLinter-html-tidy"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}

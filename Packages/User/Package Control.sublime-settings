@@ -1,0 +1,13 @@
+{
+	"debug": true,
+	"installed_packages":
+	[
+		"CSScomb",
+		"HTMLBeautify",
+		"SCSS",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"WordPress"
+	]
+}
