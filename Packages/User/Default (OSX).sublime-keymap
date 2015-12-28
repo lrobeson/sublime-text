@@ -1,5 +1,0 @@
-[
-
-  { "keys": ["command+shift+n"], "command": "insert_snippet", "args": {"name": "Packages/User/filenote.sublime-snippet"} },
-  { "keys": ["command+shift+b"], "command": "insert_snippet", "args": {"name": "Packages/User/breakpoint.sublime-snippet"} },
-]
